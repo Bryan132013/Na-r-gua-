@@ -1,5 +1,5 @@
-const SUPABASE_URL="COLE_AQUI_A_PROJECT_URL";
-const SUPABASE_ANON_KEY="COLE_AQUI_A_ANON_PUBLIC_KEY";
+const SUPABASE_URL="https://mukrnyijszcczcrqhwbi.supabase.co";
+const SUPABASE_ANON_KEY="sb_publishable_hycbEGUSj8XYQuaCKAlAcQ_IdIFqQT3";
 const OWNER_EMAIL="mengofla773@gmail.com";
 const WHATSAPP="5524998837827";
 
