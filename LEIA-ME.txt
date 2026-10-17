@@ -1,0 +1,18 @@
+NA RÉGUA BARBER SHOP — SITE ATUALIZADO
+
+Esta versão foi feita em cima dos arquivos que você enviou. Ela mantém os IDs e a lógica do formulário e do painel, incluindo a integração planejada com Supabase.
+
+Arquivos:
+- index.html: página pública e formulário de agendamento.
+- style.css: visual responsivo profissional.
+- admin.html: painel de login e lista de agendamentos.
+- app.js: lógica original enviada por você.
+
+IMPORTANTE PARA FUNCIONAR:
+1. No app.js, configure SUPABASE_URL e SUPABASE_ANON_KEY com os dados do seu projeto Supabase.
+2. No Supabase, confira se a tabela appointments, colunas e políticas de segurança estão configuradas para a lógica usada.
+3. O painel só funcionará com autenticação e permissões do banco configuradas corretamente.
+4. Confira preços, horários e o telefone antes de publicar.
+5. O telefone usado no botão do WhatsApp foi mantido do arquivo original.
+
+Atenção: o app.js original define o agendamento como "confirmado" no envio. Verifique suas regras no Supabase para impedir reservas duplicadas e proteger os dados dos clientes.
